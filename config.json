@@ -1,6 +1,6 @@
 {
-"baseUrl": "http://minz.pteroqdactyl.my.id:4548",
-"ratBaseUrl": "http://minz.pteroqdactyl.my.id:4548",
-"ratSocketUrl": "http://minz.pteroqdactyl.my.id:4548",
-"wsRawUrl": "ws://http://minz.pteroqdactyl.my.id:4548/ws-raw"
+  "baseUrl": "http://minz.pteroqdactyl.my.id:4548",
+  "ratBaseUrl": "http://minz.pteroqdactyl.my.id:4548",
+  "ratSocketUrl": "http://minz.pteroqdactyl.my.id:4548",
+  "wsRawUrl": "ws://minz.pteroqdactyl.my.id:4548/ws-raw"
 }
